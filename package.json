@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cesar",
+	"description": "Earning my certificate from FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/csuarez94/CodeCampAPICert/"
 	}
 }
