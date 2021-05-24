@@ -1,6 +1,5 @@
 {
 	"name": "Cesar Suarez",
-	"author": "Cesar Suarez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
